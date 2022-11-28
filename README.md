@@ -18,7 +18,7 @@ A minimal landing page for your Social Networks and other shared links.
 
 ## About the project
 
-- [Demo](https://github.com/ivandacruz/Linktree-ivan)
+- [Demo](https://ivandacruz.github.io/Linktree-ivan/)
 
 ## Structure
 
